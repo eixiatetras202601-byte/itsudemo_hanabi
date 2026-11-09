@@ -4,5 +4,5 @@
  * G-XXXXXXXXX のままのあいだは、GA4 のスクリプトを読み込まず、Google へは何も送信しません。
  */
 window.GA4_CONFIG = {
-  measurementId: 'G-XXXXXXXXX'
+  measurementId: 'G-PHZ210KLME'
 };
